@@ -1,0 +1,1 @@
+Computing is a multi generational project that has changed substantially over the last decades, in particular the gendered participation of CS. This section looks at how CS has been gendered historically, and the current state of gender and CS. Finally, it also includes ways you can adapt your teaching to make CS a more friendly discipline to people of all genders (e.g. not men).
